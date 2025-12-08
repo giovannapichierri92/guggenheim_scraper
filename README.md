@@ -1,10 +1,15 @@
-🎨 Building a comprehensive database of the Peggy Guggenheim Collection in Venice to explore and analyze one of the most iconic modern art collections.  
+🎨 I created a database of the Peggy Guggenheim Collection in Venice to dig into one of the most iconic modern art collections.  
 
-The project aims to answer key questions:  
-- 🖼️ How are the artworks catalogued, and are there inconsistencies?  
-- 📊 How many pieces are currently exhibited versus in storage?  
-- 👩‍🎨 Which artists dominate the collection?  
-- 🏛️ Which historical periods are represented?  
-- 🔍 How has the collection evolved over time?  
+Here’s what I explored:  
+- 🖼️ How artworks are catalogued – and whether there are inconsistencies  
+- 📊 How many pieces are on display vs in storage  
+- 👩‍🎨 Which artists are most represented  
+- 🏛️ Which historical periods the collection covers  
+- 🔍 How the collection evolved over time  
 
-This Python-based project includes data scraping, cleaning, and creating analysis-ready datasets – perfect for exploring art trends, collection insights, and generating meaningful visualizations.
+Tools & workflow I used:  
+- 🖥️ **Selenium** for web scraping  
+- 🧹 **KNIME** for data cleaning and prep  
+- 📊 **Tableau** for creating cool visualizations  
+
+A Python-based, end-to-end project to scrape, clean, and visualize art collection data – perfect for discovering trends, insights, and building a portfolio-ready showcase.
