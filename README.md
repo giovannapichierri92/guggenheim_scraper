@@ -8,7 +8,6 @@ The project builds a comprehensive database of artworks and provides insights in
 
 This is an end-to-end workflow: from web scraping to cleaned datasets, ready for analysis and visualization.
 
----
 
 ## 📂 Repository Contents
 
@@ -36,7 +35,6 @@ This is an end-to-end workflow: from web scraping to cleaned datasets, ready for
 Presentations of the work carried out for the project.  
 The first presentation focuses on **data scraping and data cleaning**, while the second presentation focuses on **data presentation and dashboard creation**.
 
----
 
 ## 🎯 Project Objectives
 
@@ -46,7 +44,6 @@ The first presentation focuses on **data scraping and data cleaning**, while the
 - 📈 Prepare the data for visualization and dashboards  
 - 🔄 Provide a reproducible workflow from scraping to cleaned dataset  
 
----
 
 ## 🛠️ Tools & Technologies
 
@@ -57,19 +54,19 @@ The first presentation focuses on **data scraping and data cleaning**, while the
 - **CSV** — For storing cleaned datasets  
 - **Tableau** — Data visualization and dashboard creation  
 
----
 
-## 📁 Structure of Files  
-gughenheim_scraper/
-│  
-├ gughenheim-venezia-opere-tutte-le-pagine-csv.csv   -   *Full cleaned dataset of artworks from the museum*  
-├ scraping_gughenem.ipynb   -   *Jupyter Notebook containing scraping code*  
-├ Peggy_Guggenheim_Part_1.pdf   -   *Presentation focused on data scraping & cleaning*  
-├ Peggy_Guggenheim_Part_2.pdf   -   *Presentation focused on data visualization & dashboard*  
-└ README.md   -   *Project documentation*  
+## 📁 Project File Structure
 
+| File / Folder | Description |
+|---------------|-------------|
+| `gughenheim_scraper/` | Main project directory |
+| `gughenheim-venezia-opere-tutte-le-pagine-csv.csv` | Full cleaned dataset of artworks from the museum |
+| `scraping_gughenem.ipynb` | Jupyter Notebook containing scraping code |
+| `Peggy_Guggenheim_Part_1.pdf` | Presentation focused on data scraping & cleaning |
+| `Peggy_Guggenheim_Part_2.pdf` | Presentation focused on data visualization & dashboard |
+| `README.md` | Project documentation |
 
----                                       
+                                     
 
 ## 💡 Highlights
 
